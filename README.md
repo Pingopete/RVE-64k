@@ -17,18 +17,21 @@ This prject is based around adding a 64k terrain texture and 32k clouds among ot
 
   ## Requirements:
 
-  - KerbalSpaceProgram v1.7.3
-  - EVE v1.7.3
-  - Scatterer v0.0540
-  - RealSolarSystem (Latest Version - currently designed for KSP 1.6.1)
-  - Kopernicus 1.7.3-2
+  - __KerbalSpaceProgram v1.7.3__
+  - __EVE v1.7.3__
+  - __Scatterer v0.0540__
+  - __RealSolarSystem (Latest Version - currently designed for KSP 1.6.1)__
+  - __Kopernicus 1.7.3-2__
   
   ## Strongly Recommended/Supported
   
-  - KS3P
-  - Distant Object Enhancements *(Correct blackness of space when viewing Earth's light side)*
-  - PlanetShine *(Realistic lighting on craft from Earth)*
-  - Textures Unlimited Recolour Depot *(Allows custom part colouring with realtime relfections)*
+  - __KS3P__
+  - __Distant Object Enhancements__
+  *(Correct blackness of space when viewing Earth's light side)*
+  - __PlanetShine__
+  *(Realistic lighting on craft from Earth)*
+  - __Textures Unlimited Recolour Depot__
+  *(Allows custom part colouring with realtime relfections)*
 
   ## Main Features:
 
