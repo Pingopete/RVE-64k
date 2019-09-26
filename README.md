@@ -22,6 +22,7 @@ This prject is based around adding a 64k terrain texture and 32k clouds among ot
   - __Scatterer v0.0540__
   - __RealSolarSystem (Latest Version - currently designed for KSP 1.6.1)__
   - __Kopernicus 1.7.3-2__
+  - __KSP Running in DirectX 11__
   
   ## Strongly Recommended/Supported
   
