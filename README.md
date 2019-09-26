@@ -3,7 +3,7 @@
 
   ## Overview:
 
-*I am the original author of RVE (RSS Visual Enhancements) or commonly abbreviated to Real Visual Enhancmenets that I was working on in 2014-2016. While I've been on hiatus, PhineasFreak aquired my permission and has been maintaining and builing upon my mod under the title RSSVE (RSS Visual Enhancements). I am now back and am working on a new project that uses many of my older textures as placeholders, uses and modifies some of RSSVE's assets and adds many new textures of my own. (I have spoken with PhineasFreak and he's happy for me to encorperate his assets). This projects seeks to push the limits in KSP 1 before KSP 2 modding community gets going*
+*I am the original author of RVE (RSS Visual Enhancements) or commonly abbreviated to Real Visual Enhancmenets that I was working on in 2014-2016. While I've been on hiatus, PhineasFreak aquired my permission and has been maintaining and builing upon my mod under the title RSSVE (RSS Visual Enhancements). I am now back and am working on a new project that uses many of my older textures as placeholders, uses and modifies some of RSSVE's assets and adds many new textures of my own. (I have spoken with PhineasFreak and he's happy for me to encorperate his assets). This project seeks to push the limits in KSP 1 before KSP 2 modding community gets going*
 
   - This is a work in progress project to bring the highest posible visual fidelity to RealSolarSystem modified KerbalSpaceProgram.
 This prject is based around adding a 64k terrain texture and 32k clouds among other features to Earth.
@@ -22,6 +22,13 @@ This prject is based around adding a 64k terrain texture and 32k clouds among ot
   - Scatterer v0.0540
   - RealSolarSystem (Latest Version - currently designed for KSP 1.6.1)
   - Kopernicus 1.7.3-2
+  
+  ## Strongly Recommended/Supported
+  
+  - KS3P
+  - Distant Object Enhancements *(Correct blackness of space when viewing Earth's light side)*
+  - PlanetShine *(Realistic lighting on craft from Earth)*
+  - Textures Unlimited Recolour Depot *(Allows custom part colouring with realtime relfections)*
 
   ## Main Features:
 
