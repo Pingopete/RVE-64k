@@ -26,6 +26,7 @@ This prject is based around adding a 64k terrain texture and 32k clouds among ot
   ## Strongly Recommended/Supported
   
   - __KS3P__
+  *(Eye adaptation on the Earth's dark side so you can see lightning/city lights/auroras)*
   - __Distant Object Enhancements__
   *(Correct blackness of space when viewing Earth's light side)*
   - __PlanetShine__
