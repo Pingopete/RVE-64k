@@ -35,7 +35,3 @@ no other planets or even in-atmosphere Earth has been tested or modified.
   - Cloud light pollution
   - Lightning in Storms
   - Auroras
-
-
-
-
